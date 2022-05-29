@@ -1,7 +1,7 @@
 <?
      $host_name = "localhost";
      $db_user_id = "root";
-     $db_pwd = "Rlfl102512!";
+     $db_pwd = "";
      $db_name = "assignment";
 
      $connect = mysqli_connect($host_name, $db_user_id, $db_pwd, $db_name);
