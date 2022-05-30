@@ -16,5 +16,4 @@
     location.href='./main.php';
     </script>
     ";
-
  ?>
